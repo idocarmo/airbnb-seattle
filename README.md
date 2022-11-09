@@ -52,7 +52,7 @@ Having the business problem in hands and following the CRISP-DM steps, we starte
 After this first look we tried to address the following questions:
 * How many superhost locations are in Seattle? What is its fraction in the universe of locations?
 * Is superhosts' cancellation policy more flexible?
-* Are superhosts for they care with cleaning?
+* Are superhosts distinguishable for they care with cleaning?
 * What insights on the superhosts review comments could offer us? 
 
 The last question, in specific, is answered using NLP techniques. We fetched all the superhosts review comments and established a NLP pipeline where, comment by comment we 
