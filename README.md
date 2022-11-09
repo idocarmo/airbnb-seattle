@@ -66,7 +66,7 @@ The last question, in specific, is answered using NLP techniques. We fetched all
 
 After this step we were able to create bi-grams from the processed reviews and create a word cloud. Why bi-grams? Because we intended to highlight the main characteristics of a superhost location, and a word cloud of the terms that appear the most in a sequence give us a better understanding of the context the words are in. We have also transformed the processed corpus with TF-IDF [[1]](#1), to give the words weights that considers not only their counting in the document but also their  in the corpus as a whole. 
 
-Another approach to get insights from comments reviews was they topic modelling. For this we have used gemsin library to create a bag of words of the processed corpus and created a Latent Dirichlet Model (LDA) [[2]](#2) with the heuristic number of 5 topics. Finally we were able to visualize the LDA model output using pyLDAvis Python library [[3]](#3).
+Another approach to get insights from comments reviews was they topic modelling. For this we have used gemsin library to create a bag of words of the processed corpus and created a Latent Dirichlet Model (LDA) [[2]](#2) with the heuristic number of 5 topics. Finally we were able to visualize the LDA model output using pyLDAvis Python library [[3]](#3). You cam access the interactive topic modelling visualization [here](https://idocarmo-streamlit-example-streamlit-app-hxod4a.streamlit.app/).
 
 ## References
 
