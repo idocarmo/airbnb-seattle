@@ -2,7 +2,9 @@
 
 **airbnb-seattle** contains a brief study of Airbnb Seattle data developed for Udacity's Data Science nanodegree program.
 
-The analysis output and outcomes is discussed in the medium article available at [link](https://google.com)
+The analysis output and outcomes is discussed in the medium article available [here](https://medium.com/@ivens.costa/how-to-become-an-airbnb-superhost-f380d0604ec1).
+
+The LDA visualization is available throught the Streamlit app available [here](https://idocarmo-streamlit-example-streamlit-app-hxod4a.streamlit.app/).  
 
 ## Source code
 You can clone this repository in your machine with the command:
